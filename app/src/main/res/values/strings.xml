@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RandomDrawing</string>
+    <string name="searchBtnTxt">Find</string>
+    <string name="defaultSearchFieldTxt">Add or Search Name</string>
+    <string name="addNameTxt">Add Name</string>
+    <string name="clearListTxt">Clear All</string>
+    <string name="drawNameTxt">Draw Name</string>
+    <string name="minus">-1</string>
+    <string name="plus">+1</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+</resources>
